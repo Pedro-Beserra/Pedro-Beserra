@@ -1,15 +1,6 @@
-## Hi there 👋
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://www.linkedin.com/in/pedro-beserra-5913a1404/"  />
-</div>
-
 ###
 
 ###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -18,9 +9,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- AI Engineer em formação, com foco em desenvolvimento de aplicações baseadas em LLMs e arquiteturas RAG. <br>- 📚 Atualmente estudando Desenvolvimento de Sistemas e IA<br>
+<p align="left">I'm from brasil ✔️<br><br>- AI Engineer em formação, com foco em desenvolvimento de aplicações baseadas em LLMs e arquiteturas RAG. <br>- 📚 Atualmente estudando Desenvolvimento de Sistemas e IA<br>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-beserra-5913a1404/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   />
+  </a>
+</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
