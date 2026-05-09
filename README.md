@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left">I'm from brasil ✔️<br><br>- AI Engineer em formação, com foco em desenvolvimento de aplicações baseadas em LLMs e arquiteturas RAG. <br>- 📚 Atualmente estudando Desenvolvimento de Sistemas e IA<br>
+<p align="left">I'm from brasil ✔️<br><br>- AI Engineer em formação, focado em aplicações com IA, LLMs e desenvolvimento web.
+<br>
 
 ###
 
@@ -24,19 +25,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  />
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"  />
+  <img src="https://img.shields.io/badge/LangChain-7FC8FF.svg?style=for-the-badge&logo=LangChain&logoColor=black"  />
   <img width="12" />
 </div>
 
