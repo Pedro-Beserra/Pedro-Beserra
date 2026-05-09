@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/LangChain-7FC8FF.svg?style=for-the-badge&logo=LangChain&logoColor=black"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white"  />
   <img width="12" />
 </div>
 
